@@ -1,4 +1,4 @@
-# Python code for Raspberry Pi 3 b with OpenCV for video surveillance with an USB camera.
+# Python code for Raspberry Pi 3 b with OpenCV for video surveillance with USB camera.
 
 I have used OpenCV library to create the videos.
 
